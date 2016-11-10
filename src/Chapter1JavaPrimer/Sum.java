@@ -10,10 +10,10 @@ public class Sum {
 		System.out.print("Please enter any number: ");
 		int a = scanner.nextInt();
 		scanner.close();
-		System.out.printf("The sum of 0 to %d is: %d",a, Sum(a));
+		System.out.printf("The sum of 0 to %d is: %d",a, summation(a));
 	}
 	
-	private static int Sum(int a){
+	private static int summation(int a){
 		int b = 0;
 		if(a==0){
 			return 0;

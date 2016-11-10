@@ -15,18 +15,17 @@ public class ArrayListPopulate {
             integerList.add(scanner.nextInt());
         }
         
-        int numberOfQueries = scanner.nextInt();
+        scanner.nextInt();
         
         scanner.nextLine();
         
-        String query1 = scanner.nextLine();
+        scanner.nextLine();
         int index = scanner.nextInt();
         int element = scanner.nextInt();
         integerList.add(index, element);
        
         scanner.nextLine();
-        
-        String query2 = scanner.nextLine();        
+        scanner.nextLine();        
         int index2 = scanner.nextInt();
         integerList.remove(index2);              
         

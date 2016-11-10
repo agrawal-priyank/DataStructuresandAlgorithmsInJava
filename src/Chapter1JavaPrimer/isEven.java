@@ -9,10 +9,10 @@ public class isEven {
 		System.out.print("Please enter any number: ");
 		int a = scanner.nextInt();
 		scanner.close();
-		System.out.print("The number is " +isEven(a));
+		System.out.print("The number is " +even(a));
 	}
 	
-	private static String isEven(int a){
+	private static String even(int a){
 		if((a & 1) == 0){
 			return "Even";
 		}
