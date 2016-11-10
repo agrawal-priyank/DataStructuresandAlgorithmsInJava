@@ -21,7 +21,9 @@ public class JosephusProblem {
 	/**
 	 * @return builds the queue and returns it
 	 */
+	@SuppressWarnings("unchecked")
 	static <E> CircularLinkedQueue<E> buildQueue(E a[]){
+		@SuppressWarnings("rawtypes")
 		CircularLinkedQueue queue = new CircularLinkedQueue<>();
 		for(int i=0; i<a.length;++i){
 			queue.enqueue(a[i]);			//insert all the elements inside the queue
