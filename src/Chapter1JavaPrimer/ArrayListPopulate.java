@@ -25,7 +25,8 @@ public class ArrayListPopulate {
         integerList.add(index, element);
        
         scanner.nextLine();
-        scanner.nextLine();        
+        scanner.nextLine();
+        
         int index2 = scanner.nextInt();
         integerList.remove(index2);              
         
