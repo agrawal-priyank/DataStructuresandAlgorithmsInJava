@@ -127,7 +127,7 @@ public class DoublyLinkedList<E> {
 		Node<E> predecessor = node.getPrev();
 		Node<E> sucessor = node.getNext();
 		predecessor.setNext(sucessor);
-		sucessor.setNext(predecessor);
+		sucessor.setPrev(predecessor);
 		size--;
 		return node.getElement();
 	}	
