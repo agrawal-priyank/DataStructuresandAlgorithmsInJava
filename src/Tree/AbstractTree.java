@@ -24,7 +24,7 @@ public abstract class AbstractTree<E> implements Tree<E> {
 		return numChildren(p) > 0;
 	}
 	
-	public boolean Root(Position<E> p){
+	public boolean isRoot(Position<E> p){
 		return p == root();
 	}
 	

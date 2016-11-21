@@ -9,10 +9,10 @@ import PositionalList.Position;
  * 
  * Concrete implementation of a Binary Tree using a node based linked list structure
  */
-public abstract class LinkedBinaryTree<E> extends AbstractBinaryTree<E> {
+public class LinkedBinaryTree<E> extends AbstractBinaryTree<E> {
 	
 	//nested node class  
-	private static class Node<E> implements Position<E>{
+	public static class Node<E> implements Position<E>{
 		private E element;							//element stored at the node
 		private Node<E> parent;						//reference to parent of the node(if any)
 		private Node<E> left;						//reference to left child of the node(if any)
