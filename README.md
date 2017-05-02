@@ -1,19 +1,19 @@
 # Data Structures and Algorithms in Java
 Authors: Michael T. Goodrich and Roberto Tamassia
 
-I have implemented the following Data Structures and Abstract Data Types using Java programming language:
+Implemented the following Data Structures and Abstract Data Types using Java programming language:
 
-1. Array
-2. Linked List
-3. Stack
-4. Queue
-5. Dequeue
-6. Map
-7. List
-8. Positional List
-9. Priority Queue
-10. Tree
-11. Search Trees (Currently doing)
+1. [Array](https://github.com/agrawal-priyank/data-structures-and-algorithms/tree/master/src/Array)
+2. [Linked List](https://github.com/agrawal-priyank/data-structures-and-algorithms/tree/master/src/LinkedList)
+3. [Stack](https://github.com/agrawal-priyank/data-structures-and-algorithms/tree/master/src/Stack)
+4. [Queue](https://github.com/agrawal-priyank/data-structures-and-algorithms/tree/master/src/Queue)
+5. [Dequeue](https://github.com/agrawal-priyank/data-structures-and-algorithms/tree/master/src/Deque)
+6. [Map](https://github.com/agrawal-priyank/data-structures-and-algorithms/tree/master/src/Map)
+7. [List](https://github.com/agrawal-priyank/data-structures-and-algorithms/tree/master/src/List)
+8. [Positional List](https://github.com/agrawal-priyank/data-structures-and-algorithms/tree/master/src/PositionalList)
+9. [Priority Queue](https://github.com/agrawal-priyank/data-structures-and-algorithms/tree/master/src/PriorityQueue)
+10. [Tree](https://github.com/agrawal-priyank/data-structures-and-algorithms/tree/master/src/Tree)
+11. [Search Trees](https://github.com/agrawal-priyank/data-structures-and-algorithms/tree/master/src/BalancedSearchTrees)
 
 While implementing these I have used the core concepts of Object Oriented Designing which are:
 
@@ -21,8 +21,6 @@ While implementing these I have used the core concepts of Object Oriented Design
 2. Abstraction
 3. Encapsulation
 4. Polymorphism
-
-I have simultaneously practiced some problem solving programs as well that are related to the above mentioned Data Structures and Abstract Data Types
 
 # Environment
 
