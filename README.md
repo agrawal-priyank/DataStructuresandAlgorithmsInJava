@@ -17,7 +17,7 @@ Implemented various data structures and abstract data types from scratch and som
 10. [Tree](https://github.com/agrawal-priyank/data-structures-and-algorithms/tree/master/src/Tree)
 11. [Search Trees](https://github.com/agrawal-priyank/data-structures-and-algorithms/tree/master/src/BalancedSearchTrees)
 
-# OOD Concepts:
+# OOD Concepts
 1. Interface
 2. Abstraction
 3. Encapsulation
