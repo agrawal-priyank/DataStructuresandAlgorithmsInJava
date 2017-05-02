@@ -1,8 +1,10 @@
 # Data Structures and Algorithms in Java
 Authors: Michael T. Goodrich and Roberto Tamassia
 
-Implemented the following Data Structures and Abstract Data Types using Java programming language:
+# Description
+Implemented various data structures and abstract data types from scratch and some algorithms related to them.
 
+# Code Implementations
 1. [Array](https://github.com/agrawal-priyank/data-structures-and-algorithms/tree/master/src/Array)
 2. [Linked List](https://github.com/agrawal-priyank/data-structures-and-algorithms/tree/master/src/LinkedList)
 3. [Stack](https://github.com/agrawal-priyank/data-structures-and-algorithms/tree/master/src/Stack)
@@ -15,15 +17,14 @@ Implemented the following Data Structures and Abstract Data Types using Java pro
 10. [Tree](https://github.com/agrawal-priyank/data-structures-and-algorithms/tree/master/src/Tree)
 11. [Search Trees](https://github.com/agrawal-priyank/data-structures-and-algorithms/tree/master/src/BalancedSearchTrees)
 
-While implementing these I have used the core concepts of Object Oriented Designing which are:
-
+# OOD Concepts:
 1. Interface
 2. Abstraction
 3. Encapsulation
 4. Polymorphism
 
-# Environment
+# Technologies
+Java
 
-Programming Language: Java
-
-IDE: Eclipse Neon
+# IDE 
+Eclipse Neon
