@@ -1,10 +1,10 @@
-# Data Structures and Algorithms in Java
+## Data Structures and Algorithms in Java
 Authors: Michael T. Goodrich and Roberto Tamassia
 
-# Description
-Implemented various data structures and abstract data types from scratch and some algorithms related to them.
+### Description
+Implementations of various data structures and abstract data types from scratch.
 
-# Code Implementations
+### Code
 1. [Array](https://github.com/agrawal-priyank/data-structures-and-algorithms/tree/master/src/Array)
 2. [Linked List](https://github.com/agrawal-priyank/data-structures-and-algorithms/tree/master/src/LinkedList)
 3. [Stack](https://github.com/agrawal-priyank/data-structures-and-algorithms/tree/master/src/Stack)
@@ -17,14 +17,11 @@ Implemented various data structures and abstract data types from scratch and som
 10. [Tree](https://github.com/agrawal-priyank/data-structures-and-algorithms/tree/master/src/Tree)
 11. [Search Trees](https://github.com/agrawal-priyank/data-structures-and-algorithms/tree/master/src/BalancedSearchTrees)
 
-# OOD Concepts
+### OOD Concepts
 1. Interface
 2. Abstraction
 3. Encapsulation
 4. Polymorphism
 
-# Technologies
+### Programming Language
 Java
-
-# IDE 
-Eclipse Neon
