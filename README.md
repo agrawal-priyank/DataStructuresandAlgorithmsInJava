@@ -18,10 +18,10 @@ Implementations of various data structures and abstract data types from scratch.
 11. [Search Trees](https://github.com/agrawal-priyank/data-structures-and-algorithms/tree/master/src/BalancedSearchTrees)
 
 ### OOD Concepts
-1. Interface
-2. Abstraction
-3. Encapsulation
-4. Polymorphism
+* Interface
+* Abstraction
+* Encapsulation
+* Polymorphism
 
 ### Programming Language
 Java
