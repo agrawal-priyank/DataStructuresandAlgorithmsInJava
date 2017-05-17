@@ -1,9 +1,6 @@
 ## Data Structures and Algorithms in Java
 Authors: Michael T. Goodrich and Roberto Tamassia
 
-### Description
-Implementations of various data structures and abstract data types from scratch.
-
 ### Code
 1. [Array](https://github.com/agrawal-priyank/data-structures-and-algorithms/tree/master/src/Array)
 2. [Linked List](https://github.com/agrawal-priyank/data-structures-and-algorithms/tree/master/src/LinkedList)
