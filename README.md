@@ -1,5 +1,5 @@
 ## Data Structures and Algorithms in Java
-Authors: Michael T. Goodrich and Roberto Tamassia
+Reference: [Data Structures and Algorithms in Java](https://www.amazon.com/Data-Structures-Algorithms-Michael-Goodrich/dp/0470383267)
 
 ### Code
 1. [Array](https://github.com/agrawal-priyank/data-structures-and-algorithms/tree/master/src/Array)
@@ -13,12 +13,6 @@ Authors: Michael T. Goodrich and Roberto Tamassia
 9. [Priority Queue](https://github.com/agrawal-priyank/data-structures-and-algorithms/tree/master/src/PriorityQueue)
 10. [Tree](https://github.com/agrawal-priyank/data-structures-and-algorithms/tree/master/src/Tree)
 11. [Search Trees](https://github.com/agrawal-priyank/data-structures-and-algorithms/tree/master/src/BalancedSearchTrees)
-
-### OOD Concepts
-* Interface
-* Abstraction
-* Encapsulation
-* Polymorphism
 
 ### Programming Language
 Java
